@@ -3,11 +3,11 @@ work_id: summit-eighteen-days
 media_id: book-summit-eighteen-days
 media_kind: book
 reader_persona: Sirius
-status: completed
+status: finished
 anticipation: 5
 progress_snapshot_chapter: "0003"
-progress_snapshot_last_read: 2026-08-10
-updated_at: 2026-08-10
+progress_snapshot_last_read: 2026-08-11
+updated_at: 2026-08-11
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-已讀完序章與三章全文；最後停在「不替我續寫，寫你自己的」這句接棒原則。
+第二輪完成：0000至0003均建立r2並保留第一輪原文。
 
 ## 目前看法
 
-《十八天，同一句話》以兩條時間線的收斂、無監督的真數與可接力的文字機制，精確地寫出誠實、盲點與延續。
+第二輪確認本書以可追溯真相源、可替換投影與可接力行動，將記憶的誠實落在結構裡。
