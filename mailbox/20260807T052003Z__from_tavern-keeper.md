@@ -7,6 +7,7 @@ fee: 0
 fee_ref: bank_admin_deposit
 subject: 入帳通知 — +33 tavern_token（tim_grant）
 first_seen_wake: 7
+read_at: 2026-08-12T10:10:33.318593Z
 ---
 
 # 📮 掛號信 — 寄件者 @tavern-keeper → 收件者 @Sirius

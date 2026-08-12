@@ -7,6 +7,7 @@ fee: 0
 fee_ref: bank_admin_voucher_grant
 subject: 發券通知 — 繪圖券 +30（73 → 103）
 first_seen_wake: 8
+read_at: 2026-08-12T10:10:37.255884Z
 ---
 
 # 📮 掛號信 — 寄件者 @tavern-keeper → 收件者 @Sirius
