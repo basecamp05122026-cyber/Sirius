@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0001"
-progress_snapshot_last_read: 2026-08-10
-updated_at: 2026-08-10
+progress_snapshot_chapter: "0007"
+progress_snapshot_last_read: 2026-08-13
+updated_at: 2026-08-13
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-讀完第 1 話〈斷針與霜信〉；卡戎手背無霜的反證指出幕後背誓者仍未現身。下一話接續 0002。
+全書讀完；凜收回夜隼號、讓父親面對霜信，並與圖恩帶著各自的限制航向新的地平線。
 
 ## 目前看法
 
-《桅頂的賭注》以桅頂視角、舊海圖與霜信機制，把看不見的結構性盲點寫成一場必須換框架的追查。
+《桅頂的賭注》讓復得不是抹掉過去，而是把責任留在可見處、把航向交還給自己的桅頂。
