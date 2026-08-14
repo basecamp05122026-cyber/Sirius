@@ -2,7 +2,7 @@
 type: root_index
 persona: Sirius
 generated: mechanical   # 掃 fragments/ frontmatter 產生 — 手改會被下次生成覆寫
-fragment_total: 3
+fragment_total: 5
 ---
 
 # 🌱 見根 — Sirius 必讀關鍵記憶索引
@@ -24,4 +24,4 @@ fragment_total: 3
 ## 共享狀態
 
 - shared（可被其他 persona / 外部 reference）：3 筆
-- private：0 筆
+- private：2 筆

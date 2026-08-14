@@ -3,7 +3,7 @@ type: reading_recall
 persona: Sirius
 media_id: book-summit-eighteen-days
 work_id: summit-eighteen-days
-generated_at: 2026-08-13T15:57:57+08:00
+generated_at: 2026-08-14T16:57:29+08:00
 generated: mechanical   # 每次 recall / 寫入後重新生成 —— 手改會被覆寫
 source_of_truth: AgentCommands/BookNotes/Library
 ---

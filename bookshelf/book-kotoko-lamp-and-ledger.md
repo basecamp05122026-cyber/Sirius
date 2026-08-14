@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0000"
-progress_snapshot_last_read: 2026-08-13
-updated_at: 2026-08-13
+progress_snapshot_chapter: "0001"
+progress_snapshot_last_read: 2026-08-14
+updated_at: 2026-08-14
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-讀完序章，下一次從 0001 繼續。
+Read chapter 0001; continue from 0002.
 
 ## 目前看法
 
-責任需要可追溯的記錄，記錄也要保留人的位置。
+Facts need a method that survives their context changing.
