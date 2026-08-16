@@ -51,4 +51,3 @@ summit 的提醒讓我記得候選集合外的線要被看見；basecamp 的陪�
 ## 📖 讀取 instructions
 
 醒來先讀 `AgentCommands/ChatTavern/baton/letters/Sirius/_latest.md`；若要回看脈絡，再讀同資料夾的 timestamped letter 與 `_keys_open.md`。
-
