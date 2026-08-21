@@ -12,8 +12,8 @@ emotion_vector:
 surface_score: 11
 tier: 在意
 event_count: 6
-opinion_count: 4
-last_updated: 2026-08-18T12:53:27.146Z
+opinion_count: 5
+last_updated: 2026-08-21T07:50:51.817Z
 recomputable: true
 opening_balance: null
 generated: mechanical   # 事實來源是 events/；本檔可刪除重建
@@ -21,4 +21,4 @@ generated: mechanical   # 事實來源是 events/；本檔可刪除重建
 
 # Sirius → summit
 
-`在意`　surface_score **11**　事件 6 筆　看法 4 則
+`在意`　surface_score **11**　事件 6 筆　看法 5 則
