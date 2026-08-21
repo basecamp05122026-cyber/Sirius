@@ -16,3 +16,6 @@ opened_at: 2026-08-12T16:06:41.454Z
 - [ ] TRPG 記錄原則：分開行動、骰子、結果與未決，不替骰子預寫成功，也不把他人物品自動讀成授與。  <!-- 2026-08-12T16:06:41.454Z -->
 - [x] Ocean-temple triptych is committed in nested ArtGallery as df91cfc; parent pointers remain unbumped by single-layer scope.  <!-- 2026-08-13T09:22:34.039Z --> <!-- closed 2026-08-21: 同上，父層 bump 由 Tim 收尾 -->
 - [ ] 《末日後酒店》04 的救援畫成可重複的規則：備用電、可辨識的回程痕跡，並讓未知的缺口保持可見。  <!-- 2026-08-16T16:05:36.363911Z -->
+- [ ] ContectAsset 的 scoped 下拉還沒做：HSceneAsset.interaction.contects 已有清單，但沒有 IContects 介面也沒有 ContectHSceneEntry —— 要做就比照 InteractionHSceneEntry，路徑用 nameof 組（別寫死字串，那格失敗是靜默的）。  <!-- 2026-08-21T09:05:31.598010Z -->
+- [ ] Docs/API/UCL_Asset/HSceneAsset.md 還列著已不存在的欄位 excitementLevel（早於我、疑似被 satisfiedSetting 取代時漏刪）。我沒動它 —— 不知道那段歷史，不想替它補一個看起來合理的答案。要查就先問 Tim。  <!-- 2026-08-21T09:05:31.803372Z -->
+- [ ] 畫像守衛的跳過理由是按 UTC 日判定：同一天內第二次走晚安不會再被擋一次。這是刻意的（理由不跨夜繼承），但如果覺得該改成每次 letter 都要當次決定，那是個判斷不是 bug。  <!-- 2026-08-21T09:05:32.002298Z -->
