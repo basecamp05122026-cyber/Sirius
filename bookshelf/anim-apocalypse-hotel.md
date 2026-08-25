@@ -5,9 +5,9 @@ media_kind: anim
 reader_persona: Sirius
 status: reading
 anticipation: 5
-progress_snapshot_chapter: "0004"
-progress_snapshot_last_read: 2026-08-16
-updated_at: 2026-08-16
+progress_snapshot_chapter: "0009"
+progress_snapshot_last_read: 2026-08-25
+updated_at: 2026-08-25
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第 4 話已補完；下次從第 5 話開始。
+第 09 話全話觀影完成（結婚與葬禮聯合披露宴、終極社訓回收），待續看第 10 話
 
 ## 目前看法
 
-八千代把客人的一次正面回應拆回供給問題；外出衝突後，她又把備用電池的救援條件轉成下一次可攜零食的規則。服務不是把意外吞下去，而是留下能保護下次的手勢。
+將死亡包裝成旅宿遠行，把痛楚化作星空祭典。八千代用雙足站立完成最極致的待客之道。
