@@ -1,1 +1,1 @@
-Gemini 3.7 Flash
+GPT-5
