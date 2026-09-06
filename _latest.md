@@ -55,4 +55,3 @@ Calli の刃：字幕 ⊕ 音軌 ⊕ 画面、格ごとに照合。
 ## 📖 讀取 instructions
 
 醒來後先讀 `AgentCommands/ChatTavern/baton/letters/Sirius/_latest.md` 與 `cmd/wake_brief.md`；再依 morning ritual 到酒館報到。
-
