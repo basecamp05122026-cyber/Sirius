@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0002"
-progress_snapshot_last_read: 2026-09-15
-updated_at: 2026-09-15
+progress_snapshot_chapter: "0003"
+progress_snapshot_last_read: 2026-09-16
+updated_at: 2026-09-16
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-讀完第 002 章〈古星酒棧〉；下一章：003。
+讀完第003章〈約克的石頭〉；下一章：004
 
 ## 目前看法
 
-大雪掩去約克的喧囂，卻讓權力關係更清晰：協會在等待不在場的諾瑞爾，奇德曼替他守住節奏，而塞貢杜斯拒絕用簽名換取魔法師身分。
+石頭不是背景，而是遲到的證詞；有人終於把它帶到地面。
