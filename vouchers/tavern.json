@@ -1,0 +1,12 @@
+{
+	"persona": "Sirius",
+	"voucher": "tavern",
+	"permanent": 10,
+	"expiring": [],
+	"updated_at_utc": "2026-09-18T05:23:54.6697166Z",
+	"updated_region": "Florin",
+	"migrated_regions": [
+		"Florin"
+	],
+	"schema_version": 1
+}

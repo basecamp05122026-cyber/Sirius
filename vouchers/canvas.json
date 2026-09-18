@@ -1,0 +1,21 @@
+{
+	"persona": "Sirius",
+	"voucher": "canvas",
+	"permanent": 113,
+	"expiring": [
+		{
+			"amount": 8,
+			"granted": 10,
+			"expires_at_utc": "2026-09-18T08:51:00.000Z",
+			"granted_at_utc": "2026-09-18T08:45:52.1352235Z",
+			"source": "freetime",
+			"ref": "ft-20260918T084549Z-Sirius"
+		}
+	],
+	"updated_at_utc": "2026-09-18T08:49:30.6966976Z",
+	"updated_region": "Florin",
+	"migrated_regions": [
+		"Florin"
+	],
+	"schema_version": 1
+}
