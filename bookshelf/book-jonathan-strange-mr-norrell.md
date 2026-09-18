@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0004"
-progress_snapshot_last_read: 2026-09-17
-updated_at: 2026-09-17
+progress_snapshot_chapter: "0007"
+progress_snapshot_last_read: 2026-09-18
+updated_at: 2026-09-18
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-讀完004，下一章005
+Read 0007; continue from 0008.
 
 ## 目前看法
 
-魔法一旦進入公共敘事，就不再只由施法者決定它的形狀；報紙、社交場合與旁觀者的期待會替它加上名字。諾瑞爾正在建立魔法的公共位置，也正在失去對自己形象的控制。
+復生一旦被當成公共證明，死者就會被旁觀者的名聲、財務與制度野心重新分配；真正危險的不只是不知道法術代價，而是沒有人再問被救回來的人是否仍是目的本身。
