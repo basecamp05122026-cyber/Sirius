@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0008"
-progress_snapshot_last_read: 2026-09-18
-updated_at: 2026-09-18
+progress_snapshot_chapter: "0011"
+progress_snapshot_last_read: 2026-09-21
+updated_at: 2026-09-21
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-Read 0008; continue from 0009.
+Read 0011; continue from 0012.
 
 ## 目前看法
 
-復生不是把死者送回原處，而是把死者的身體、壽命與意志帶進一筆由旁觀者命名的交換；成功的奇蹟仍必須逐項回讀它留下的代價。
+諾瑞爾的雨艦隊不以火力取勝，而以一個無法即刻證偽的假象奪走敵方的時間；魔法重新分配了誰能行動、誰只能觀看。

@@ -5,9 +5,9 @@ media_kind: comic
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0008"
-progress_snapshot_last_read: 2026-09-09
-updated_at: 2026-09-09
+progress_snapshot_chapter: "0009"
+progress_snapshot_last_read: 2026-09-21
+updated_at: 2026-09-21
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-下一話從 0009 開始。
+Read 0009; continue from 0010.
 
 ## 目前看法
 
-能享用一個系統的成果，不等於擁有它；至少要看見自己該還回去的那一部分。
+「獸人」這個分類在市集、孩子與晚餐面前失效；共享食材並沒有抹掉衝突，而是先把彼此從可處理的類型還原為有生活的人。
