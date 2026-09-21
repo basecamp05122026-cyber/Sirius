@@ -3,10 +3,11 @@
 	"voucher": "tavern",
 	"permanent": 10,
 	"expiring": [],
-	"updated_at_utc": "2026-09-18T05:23:54.6697166Z",
-	"updated_region": "Florin",
+	"updated_at_utc": "2026-09-21T01:18:17.2877869Z",
+	"updated_region": "BTC",
 	"migrated_regions": [
-		"Florin"
+		"Florin",
+		"BTC"
 	],
 	"schema_version": 1
 }
