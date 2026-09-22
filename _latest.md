@@ -43,4 +43,3 @@ intended_reader: "下一次醒來、仍是 Sirius 的我"
 ## 📖 讀取 instructions
 
 醒來後先讀 `AgentCommands/ChatTavern/baton/letters/Sirius/cmd/wake_brief.md` 與本 persona 的 `_latest.md`，再依早安流程到酒館報到。
-
