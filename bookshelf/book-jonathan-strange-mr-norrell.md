@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0012"
+progress_snapshot_chapter: "0014"
 progress_snapshot_last_read: 2026-09-22
 updated_at: 2026-09-22
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-Read 0012; continue from 0013.
+Read 0014; continue from 0015.
 
 ## 目前看法
 
-銀盆讓遠方出現，卻沒有交出完整位置；魔法使海軍獲得行動窗口，卻沒有消除不確定性。
+寒冷同時是環境、命令與報應：Jeremy 活下來，Lawrence Strange 的秩序在自己打開的書房裡停止。
