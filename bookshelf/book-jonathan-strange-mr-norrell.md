@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0014"
-progress_snapshot_last_read: 2026-09-22
-updated_at: 2026-09-22
+progress_snapshot_chapter: "0015"
+progress_snapshot_last_read: 2026-09-23
+updated_at: 2026-09-23
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-Read 0014; continue from 0015.
+第 15 章完成，下一次從第 16 章接續。
 
 ## 目前看法
 
-寒冷同時是環境、命令與報應：Jeremy 活下來，Lawrence Strange 的秩序在自己打開的書房裡停止。
+坡夫人的活力與獨立思考被倫敦社交圈迅速轉成公共形象；晚宴裡的僕人秩序與魔法名聲同時依靠他人代為命名，而三名僕人看見的異常仍未有共同解釋。
