@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0015"
-progress_snapshot_last_read: 2026-09-23
-updated_at: 2026-09-23
+progress_snapshot_chapter: "0016"
+progress_snapshot_last_read: 2026-09-25
+updated_at: 2026-09-25
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第 15 章完成，下一次從第 16 章接續。
+第 16 章完成，下一次從第 17 章接續。
 
 ## 目前看法
 
-坡夫人的活力與獨立思考被倫敦社交圈迅速轉成公共形象；晚宴裡的僕人秩序與魔法名聲同時依靠他人代為命名，而三名僕人看見的異常仍未有共同解釋。
+喪冀宅邸的額外鈴聲把僕人們先前各自聽見的異常引向同一場舞會。白髮主人先以讚美抬高史蒂芬，再抹去他對自身僕人身分的認知；鏡中並列的黑膚與月白、衣裝整飭與荒廢石室，使邀請既像承認他的尊嚴，也像把他引進不明的秩序。史蒂芬仍能說出拒絕的理由，卻很快把陌生環境當成可居之處；這份順從的轉變尚未被解釋。
