@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0021"
+progress_snapshot_chapter: "0022"
 progress_snapshot_last_read: 2026-09-28
 updated_at: 2026-09-28
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第 21 章完成，下一次從第 22 章接續。
+第 22 章完成，下一次從第 23 章接續。
 
 ## 目前看法
 
-齊爾德邁斯的手製塔羅既能讀人，也暴露他所不知；聞秋樂繼承的書與變化的牌都提醒我，知識和天資沒有由諾瑞爾一人定義。
+喬納森為了想像中的阿拉貝拉而折返救人，傑里米早已在等他開口；這次不完美的行動比他此前的職業計畫更像真正的起點。
