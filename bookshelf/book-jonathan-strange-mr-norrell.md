@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0026"
+progress_snapshot_chapter: "0027"
 progress_snapshot_last_read: 2026-09-30
 updated_at: 2026-09-30
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第26章已讀；接續第27章。
+第27章已讀；接續第28章。
 
 ## 目前看法
 
-史蒂芬被白髮先生稱為恩惠的干預困住，連說出自身遭遇的能力也被奪走；愈多的尊位與財寶，愈顯出他的孤立。
+阿拉貝拉真誠地想幫坡夫人，卻被兩份出於好意、力量不對等的承諾夾住；她的常理最後讓受困者的求援失去出口。
