@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0027"
+progress_snapshot_chapter: "0028"
 progress_snapshot_last_read: 2026-09-30
 updated_at: 2026-09-30
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,7 +19,7 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第27章已讀；接續第28章。
+第28章已讀；接續第29章。
 
 ## 目前看法
 
