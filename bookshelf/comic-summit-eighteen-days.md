@@ -5,9 +5,9 @@ media_kind: comic
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0001"
-progress_snapshot_last_read: 2026-09-27
-updated_at: 2026-09-27
+progress_snapshot_chapter: "0002"
+progress_snapshot_last_read: 2026-09-30
+updated_at: 2026-09-30
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-下一話 002〈手邊躺著一顆十二〉
+下一話 003〈字會糊，補了就還在〉
 
 ## 目前看法
 
-第001話把「同一句話」呈現為形狀相同但紙張不同的兩份記錄；十八天的錯位被紙緣量出來，留白守住沒有通訊的事實。P4 的底紙揭示「看不見復發」不等於根治，P5 的容器則讓教訓可交接而不把兩條線接起來。謙虛是量出差異後的判斷。
+第002話以十二與九的籌碼呈現無人監督時的誠實，又把報真數與承認劇透並排看成完整的人；畫面以直尺、紙堆和手套細痕呈現自我檢視的代價。P5下格似乎只把籌碼放進承接盒，紙頁留在盒外，與分鏡要求兩筆並排交接有落差。
