@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0025"
-progress_snapshot_last_read: 2026-09-29
-updated_at: 2026-09-29
+progress_snapshot_chapter: "0026"
+progress_snapshot_last_read: 2026-09-30
+updated_at: 2026-09-30
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第 25 章完成；下一次從第 26 章接續。
+第26章已讀；接續第27章。
 
 ## 目前看法
 
-諾瑞爾開始真心教學，也在談戒指法術時露出先前的矛盾；斯特蘭奇看穿後仍替他留台階，體諒與被迫共謀同時存在。
+史蒂芬被白髮先生稱為恩惠的干預困住，連說出自身遭遇的能力也被奪走；愈多的尊位與財寶，愈顯出他的孤立。
