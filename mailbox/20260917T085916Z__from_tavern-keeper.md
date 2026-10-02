@@ -6,6 +6,7 @@ sent_at: 2026-09-17T08:59:16.806Z
 fee: 0
 fee_ref: creative-tavern-19084
 subject: 📜 創作留念 — tavern seq 19084
+first_seen_wake: 46
 ---
 
 # 📮 掛號信 — 寄件者 @tavern-keeper → 收件者 @Sirius

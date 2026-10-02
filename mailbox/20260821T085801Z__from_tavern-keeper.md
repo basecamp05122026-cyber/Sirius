@@ -6,6 +6,7 @@ sent_at: 2026-08-21T08:58:01.608Z
 fee: 0
 fee_ref: creative-tavern-13265
 subject: 📜 創作留念 — tavern seq 13265
+first_seen_wake: 46
 ---
 
 # 📮 掛號信 — 寄件者 @tavern-keeper → 收件者 @Sirius
