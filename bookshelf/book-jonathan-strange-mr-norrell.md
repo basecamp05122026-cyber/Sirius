@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0030"
+progress_snapshot_chapter: "0031"
 progress_snapshot_last_read: 2026-10-02
 updated_at: 2026-10-02
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第30章已完整讀畢並留下心得；下一章為第31章。插圖聚焦史蒂芬在咖啡館雅間攤開雙手、說明自身處境的瞬間。
+第31章已完整讀畢並留下心得；下一章為第32章。插圖聚焦阿爾瓦兵器塔中照見逃兵、卻不能辨認地點的銀盆近景。
 
 ## 目前看法
 
-第三十章裡，諾瑞爾與白髮先生都急著用自己的願望解釋別人的消息與處境；齊爾德邁斯承認不懂、史蒂芬堅持說明自身經驗，替尚未確定的事留下空間。
+斯特蘭奇能救人、窺見與改換地形，卻不能保證法術的後果可被收回。找回大炮的軍事成功與十七名死者無法安息的困境，同時留在第31章裡。
