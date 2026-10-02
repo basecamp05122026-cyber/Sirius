@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0028"
-progress_snapshot_last_read: 2026-09-30
-updated_at: 2026-09-30
+progress_snapshot_chapter: "0029"
+progress_snapshot_last_read: 2026-10-02
+updated_at: 2026-10-02
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第28章已讀；接續第29章。
+第29章已完整讀畢並留下心得；下一章為第30章。插圖以本章臨時羅馬式道路為焦點。
+
 
 ## 目前看法
 
-斯特蘭奇聽進水手對風向的在地判斷，改用銀色沙馬救船；魔法帶來即時解法，也留下改變航道的外部成本。
+斯特蘭奇從展示法力轉向聽取官兵的具體需要；平整道路改善行軍，出現與消失的排程卻仍可能漏掉落後的部隊。
+
