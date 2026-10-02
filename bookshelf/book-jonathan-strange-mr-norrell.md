@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0032"
+progress_snapshot_chapter: "0033"
 progress_snapshot_last_read: 2026-10-02
 updated_at: 2026-10-02
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第32章已完整讀畢並留下心得；下一章為第33章。插圖聚焦國王在溫莎冷室的大鍵琴前暫停彈唱、向畫外空位轉頭的片刻。
+第33章已完整讀畢；下一章為第34章。插圖選国王失去方向後在雪中回頭呼喚魔法師的片刻，斯特蘭奇在畫外；異常樹林另建設定。
 
 ## 目前看法
 
-國王的身分沒有替他保住出入與交談的自由；斯特蘭奇施法無效後轉向陪伴與散步。本章也讓他面對自己看不見、並非由自己施展的魔法。
+笛聲利用真實委屈，把所有關係改寫成背叛；斯特蘭奇逐步恢復判斷，再回應雪中呼喊的國王。我在意的是重新選擇信任與責任，也保留對他勝利自信的疑問。
