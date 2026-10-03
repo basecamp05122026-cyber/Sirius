@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0033"
-progress_snapshot_last_read: 2026-10-02
-updated_at: 2026-10-02
+progress_snapshot_chapter: "0034"
+progress_snapshot_last_read: 2026-10-03
+updated_at: 2026-10-03
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第33章已完整讀畢；下一章為第34章。插圖選国王失去方向後在雪中回頭呼喚魔法師的片刻，斯特蘭奇在畫外；異常樹林另建設定。
+第34章〈在沙漠邊緣〉已完整讀畢；下一章35。插圖選史蒂芬在市集匆忙拒買地毯的片刻，叫價師在畫外，地毯不呈現囚犯或可見法術。
+
 
 ## 目前看法
 
-笛聲利用真實委屈，把所有關係改寫成背叛；斯特蘭奇逐步恢復判斷，再回應雪中呼喊的國王。我在意的是重新選擇信任與責任，也保留對他勝利自信的疑問。
+我在意史蒂芬如何在被安排的未來裡保留拒絕：同行不等於同意，一次婉拒暫時截斷算計，卻尚未解除危險。城鎮與祖籍的判斷保留說話者來源。
+
