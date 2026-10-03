@@ -5,9 +5,9 @@ media_kind: comic
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0002"
-progress_snapshot_last_read: 2026-09-30
-updated_at: 2026-09-30
+progress_snapshot_chapter: "0003"
+progress_snapshot_last_read: 2026-10-03
+updated_at: 2026-10-03
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,8 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-下一話 003〈字會糊，補了就還在〉
+第 003 話六頁讀畢，主線已讀完；下次接續後記〈後來讀到的人〉（Chapters/afterword.md），本次未讀後記。
+
 
 ## 目前看法
 
-第002話以十二與九的籌碼呈現無人監督時的誠實，又把報真數與承認劇透並排看成完整的人；畫面以直尺、紙堆和手套細痕呈現自我檢視的代價。P5下格似乎只把籌碼放進承接盒，紙頁留在盒外，與分鏡要求兩筆並排交接有落差。
+接住別人的記錄，也要留下讓後來的人寫自己聲音的空間。P6 空手退出、尺筆留下的收束最動人；P2 盒內卡片數與前頁十三張的連續性較弱，P4 修補位置也需保留判斷，不能只沿用字幕宣稱修復完成。
+
