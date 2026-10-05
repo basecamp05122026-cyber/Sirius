@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0036"
+progress_snapshot_chapter: "0037"
 progress_snapshot_last_read: 2026-10-05
 updated_at: 2026-10-05
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第36章〈世間所有的鏡子〉讀畢，下一章037。鏡後古道的去向、白色道路上的人影身分與旅途風險仍未明。
+第37章〈五龍法庭〉讀畢，下一章038。五龍法庭未獲政府接納，德羅萊特的欺詐醜聞與書評爭議已有本章交代；不推測後續出版及師徒關係。
 
 ## 目前看法
 
-斯特蘭奇在鏡後遇見無圖可循的古道與陌生身影；探索的興奮沒有消除迷路與失蹤的風險。阿拉貝拉要求他把她的安全顧慮納入決定，兩人的約定讓好奇心也有了責任。
+五龍法庭之爭讓焦點從懲治詐騙轉到魔法權力如何受約束。諾瑞爾想由自己設計並掌控秩序；斯特蘭奇與利物浦伯爵都指出，法律不能把一個人的意志置於眾人之上。
