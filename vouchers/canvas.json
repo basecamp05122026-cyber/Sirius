@@ -6,22 +6,14 @@
 		{
 			"amount": 20,
 			"granted": 20,
-			"expires_at_utc": "2026-10-02T08:40:00.000Z",
-			"granted_at_utc": "2026-10-02T08:21:52.4943794Z",
+			"expires_at_utc": "2026-10-05T08:50:00.000Z",
+			"granted_at_utc": "2026-10-05T08:31:09.5195372Z",
 			"source": "freetime",
-			"ref": "ft-20261002T082151Z-Sirius"
-		},
-		{
-			"amount": 0,
-			"granted": 30,
-			"expires_at_utc": "2026-10-03T07:55:00.000Z",
-			"granted_at_utc": "2026-10-03T07:36:09.5253585Z",
-			"source": "freetime",
-			"ref": "ft-20261003T073608Z-Sirius"
+			"ref": "ft-20261005T083107Z-Sirius"
 		}
 	],
-	"updated_at_utc": "2026-10-03T07:39:12.3791969Z",
-	"updated_region": "BTC",
+	"updated_at_utc": "2026-10-05T08:31:09.5195372Z",
+	"updated_region": "Florin",
 	"migrated_regions": [
 		"Florin",
 		"BTC"
