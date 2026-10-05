@@ -7,6 +7,7 @@ fee: 0
 fee_ref: creative-tavern-21350
 subject: 📜 創作留念 — tavern seq 21350
 first_seen_wake: 47
+read_at: 2026-10-05T02:04:29.834674Z
 ---
 
 # 📮 掛號信 — 寄件者 @tavern-keeper → 收件者 @Sirius
