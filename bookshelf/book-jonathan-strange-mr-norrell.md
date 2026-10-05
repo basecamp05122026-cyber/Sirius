@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0037"
+progress_snapshot_chapter: "0038"
 progress_snapshot_last_read: 2026-10-05
 updated_at: 2026-10-05
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第37章〈五龍法庭〉讀畢，下一章038。五龍法庭未獲政府接納，德羅萊特的欺詐醜聞與書評爭議已有本章交代；不推測後續出版及師徒關係。
+第38章〈選自《愛丁堡評論》〉讀畢，下一章039。書評如何被接受及引起何種反應尚未得知；不替未知歷史事件補上定論。
 
 ## 目前看法
 
-五龍法庭之爭讓焦點從懲治詐騙轉到魔法權力如何受約束。諾瑞爾想由自己設計並掌控秩序；斯特蘭奇與利物浦伯爵都指出，法律不能把一個人的意志置於眾人之上。
+斯特蘭奇主張不要把對烏斯克格拉斯的未知變成禁問。他以「魔法是一座以烏斯克格拉斯為基石的奇屋」作比喻：若壓下異議而忽視根基，裂隙與走廊可能把人帶向無法預見的地方。
