@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0035"
-progress_snapshot_last_read: 2026-10-03
-updated_at: 2026-10-03
+progress_snapshot_chapter: "0036"
+progress_snapshot_last_read: 2026-10-05
+updated_at: 2026-10-05
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,10 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第35章〈諾丁漢郡來的鄉紳〉已完整讀畢；下一章36。插圖選阿拉貝拉在客廳稿紙外等候回應的片刻，喬納森在畫外；散紙與家用帳簿另建設定。
-
+第36章〈世間所有的鏡子〉讀畢，下一章037。鏡後古道的去向、白色道路上的人影身分與旅途風險仍未明。
 
 ## 目前看法
 
-我在意專注如何遮住身旁人的警訊：阿拉貝拉帶來的怪事先未被聽見，之後才由陌生人迫使喬納森正視。對冒名者的懷疑與鏡中道路仍保留未決，不把本章寫成已破案。
-
+斯特蘭奇在鏡後遇見無圖可循的古道與陌生身影；探索的興奮沒有消除迷路與失蹤的風險。阿拉貝拉要求他把她的安全顧慮納入決定，兩人的約定讓好奇心也有了責任。
