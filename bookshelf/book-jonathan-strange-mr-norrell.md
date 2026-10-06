@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0041"
+progress_snapshot_chapter: "0042"
 progress_snapshot_last_read: 2026-10-06
 updated_at: 2026-10-06
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,10 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第41章〈望穿堂〉讀畢，下一章042。校舍籌備、齊爾德邁斯的阻止、金融人脈施壓與12月20日未獲回覆的求援信均已讀；不猜未回信原因或學校後續。
+第42章〈斯特蘭奇打算寫本書〉讀畢，下一章043。已讀寫書與拒絕窺視、耶路撒冷咖啡館晚宴、沼澤等待與取木至返回咖啡館；不猜未知女士身分或腐橡木用途。
 
 
 ## 目前看法
 
-魔法復興若只容得下名人，普通老師與学生仍會被留在門外；私人恐懼已化成人脈與金融壓力。體諒執行者的矛盾，不等於把攔阻當作幫助。
+非凡的能力與美不保證尊重同行者；誰付出身體、誰來定義容易，顯出關懷如何被選擇性分配。史蒂芬說出的拒絕仍值得當作答案。
 
