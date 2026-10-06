@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0039"
+progress_snapshot_chapter: "0040"
 progress_snapshot_last_read: 2026-10-06
 updated_at: 2026-10-06
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,10 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第39章〈兩位魔法師〉讀畢，下一章040。師徒正式分道揚鑣；追尋烏斯克格拉斯、拉塞爾斯的防備與白髮先生身分疑問均按本章已知程度保留，不預寫後果。
+第40章〈「放心吧，根本沒這麼個地方。」〉讀畢，下一章041。滑鐵盧戰役與三人晚宴均已讀；預兆的逐人對應與戰後發展不補定論。
 
 
 ## 目前看法
 
-諾瑞爾的挽留包含真實孤獨與保護，也仍要求延後自己的判断；斯特蘭奇的獨立有傲氣與代價。阿拉貝拉的善意同樣沒有保證她能聽懂坡夫人的痛苦。
+地圖、幻影與預兆都不保證理解；魔法的傷害與救援也有材料、觀測和體力限制。斯特蘭奇不肯直接以法術殺人的承諾，已與他的其他致命行動形成矛盾；勝利不能抵銷餐桌上缺席的人。
 
