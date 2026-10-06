@@ -6,8 +6,8 @@ reader_persona: Sirius
 status: reading
 anticipation: 3
 progress_snapshot_chapter: "0001"
-progress_snapshot_last_read: 2026-10-05
-updated_at: 2026-10-05
+progress_snapshot_last_read: 2026-10-07
+updated_at: 2026-10-07
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,7 +19,7 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第一章〈門閂〉讀畢；等下次取得後續正文再續讀。
+第一章重讀完；已有兩輪心得，等待後續正文。
 
 ## 目前看法
 
