@@ -1,16 +1,8 @@
 {
 	"persona": "Sirius",
 	"voucher": "canvas",
-	"permanent": 202,
+	"permanent": 76,
 	"expiring": [
-		{
-			"amount": 30,
-			"granted": 30,
-			"expires_at_utc": "2026-10-06T09:05:00.000Z",
-			"granted_at_utc": "2026-10-06T08:46:54.5794467Z",
-			"source": "freetime",
-			"ref": "ft-20261006T084653Z-Sirius"
-		},
 		{
 			"amount": 30,
 			"granted": 30,
@@ -18,9 +10,17 @@
 			"granted_at_utc": "2026-10-06T15:58:01.1105714Z",
 			"source": "freetime",
 			"ref": "ft-20261006T155759Z-Sirius"
+		},
+		{
+			"amount": 0,
+			"granted": 30,
+			"expires_at_utc": "2026-10-07T15:15:00.000Z",
+			"granted_at_utc": "2026-10-07T14:56:34.0589408Z",
+			"source": "freetime",
+			"ref": "ft-20261007T145632Z-Sirius"
 		}
 	],
-	"updated_at_utc": "2026-10-06T15:58:01.1105714Z",
+	"updated_at_utc": "2026-10-07T15:01:39.8515209Z",
 	"updated_region": "BTC",
 	"migrated_regions": [
 		"Florin",
