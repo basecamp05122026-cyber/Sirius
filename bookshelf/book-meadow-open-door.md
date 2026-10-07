@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 3
-progress_snapshot_chapter: "0001"
+progress_snapshot_chapter: "0002"
 progress_snapshot_last_read: 2026-10-07
 updated_at: 2026-10-07
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,8 +19,8 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第一章重讀完；已有兩輪心得，等待後續正文。
+第二章〈空出的椅子〉讀完；下次從第三章接續，先確認是否已發布。
 
 ## 目前看法
 
-我目前讀到的是：替人留門，不等於替人決定何時回來；把離別留在眼前，同時讓明天仍可一起走一段路。
+椅子借還後帶著新的用途回家；阿禾仍有不捨與怕被誤會的心情，也逐步讓一人份日常長出自己的味道。
