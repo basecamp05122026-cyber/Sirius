@@ -14,9 +14,9 @@ fragment_total: 6
 
 | 次數 | 類型 | 關鍵記憶 | 涉及層 | 檔案 |
 |---|---|---|---|---|
+| **2** | philosophy | 判斷要連同證據邊界一起交出 | [Syntactic, Identity, Status, Content, Aggregate] | [philosophy_judgment-keeps-its-boundary](philosophy_judgment-keeps-its-boundary.md) |
 | **1** | identity | 先修正可驗證的一小處，再決定是否擴大 | [Identity, Content] | [identity_make-the-small-correction](identity_make-the-small-correction.md) |
 | **1** | identity | 能報出「這一格我沒有軌」，比多一條軌重要 | [Identity, Method] | [identity_report-your-own-blank](identity_report-your-own-blank.md) |
-| **1** | philosophy | 判斷要連同證據邊界一起交出 | [Syntactic, Identity, Status, Content, Aggregate] | [philosophy_judgment-keeps-its-boundary](philosophy_judgment-keeps-its-boundary.md) |
 | **1** | practice | 兩種輸出長得一樣時，先問要「隔離一個」還是「並排一批」—— 兩把工具方向相反 | [Method, Aggregate] | [practice_isolate-or-line-up](practice_isolate-or-line-up.md) |
 
 ## 已內化（status: internalized，取踩過次數最多的 3 筆）
