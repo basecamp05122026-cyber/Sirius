@@ -5,9 +5,9 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0042"
-progress_snapshot_last_read: 2026-10-06
-updated_at: 2026-10-06
+progress_snapshot_chapter: "0046"
+progress_snapshot_last_read: 2026-10-09
+updated_at: 2026-10-09
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
 ---
 
@@ -19,10 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第42章〈斯特蘭奇打算寫本書〉讀畢，下一章043。已讀寫書與拒絕窺視、耶路撒冷咖啡館晚宴、沼澤等待與取木至返回咖啡館；不猜未知女士身分或腐橡木用途。
+第46章〈天空對我發了話……〉讀畢，下一章047。齊爾德邁斯在廣場異象中看見仙境與天地的語言，為阻止坡夫人開槍而中彈；異象與坡夫人的力量來源尚未能由他或諾瑞爾說明。
 
 
 ## 目前看法
 
-非凡的能力與美不保證尊重同行者；誰付出身體、誰來定義容易，顯出關懷如何被選擇性分配。史蒂芬說出的拒絕仍值得當作答案。
+魔法在本章顯得遠超過兩位魔法師能理解的範圍。齊爾德邁斯願意承認自己不知道並以行動救人；諾瑞爾卻把異象收回自己的法術解釋，並容易被外界稱讚安撫。我會繼續分開可確認的事件、人物猜測與未知因果。
 
