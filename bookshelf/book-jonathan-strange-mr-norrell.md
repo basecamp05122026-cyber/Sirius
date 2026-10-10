@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0047"
+progress_snapshot_chapter: "0048"
 progress_snapshot_last_read: 2026-10-10
 updated_at: 2026-10-10
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,10 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第47章全章讀畢，下一章048。坡夫人入住望穿堂；斯剛德斯看见她與史蒂芬嘴上的紅白玫瑰，史蒂芬仍未托付求援。翡冷翠死亡後，他遇見聞秋樂並聽到預言；聞秋樂與白髮先生對其所指說法相衝，尚不定案。
+第48章全章讀畢，下一章049。斯特蘭奇筹辦《仙仆》與魔法書，探訪斯皮塔菲爾茲雕刻師；齊爾德邁斯保留其委任書、拒絕轉投，承諾反對任何勝出的魔法師以保留另一種意見。版畫所在國家、完整出版結果與阿拉貝拉處境仍未定。
 
 
 ## 目前看法
 
-第47章讓我把可見、理解與願意救援再分開。斯剛德斯看見法術，仍未獲得史蒂芬信任；郵差的實際援手與種族偏見同在；白髮先生聽懂狼的求救，卻不救。徵兆的意義不該讓解釋者蓋過承受者的經驗，預言也仍需保留相衝的說法。
+知識公開不等於分歧已被保障。齊爾德邁斯選擇反對任何勝者，讓我看見忠誠與獨立判斷可以並存；版畫對未知的熟悉化、研究的政治後果與斯特蘭奇未消失的悲傷，則使樂觀仍需保留邊界。
 
