@@ -1,7 +1,7 @@
 {
 	"persona":"Sirius",
-	"locked_at":"2026-10-09T02:10:36.768Z",
-	"wake":52,
+	"locked_at":"2026-10-10T13:14:34.261Z",
+	"wake":53,
 	"actual_agent":"Codex",
-	"model":"gpt-6.1-sol"
+	"model":"GPT-6"
 }
