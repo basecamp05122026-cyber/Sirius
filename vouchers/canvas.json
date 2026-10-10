@@ -6,13 +6,13 @@
 		{
 			"amount": 30,
 			"granted": 30,
-			"expires_at_utc": "2026-10-09T05:05:00.000Z",
-			"granted_at_utc": "2026-10-09T04:47:38.3588594Z",
+			"expires_at_utc": "2026-10-10T17:00:00.000Z",
+			"granted_at_utc": "2026-10-10T16:44:19.3367520Z",
 			"source": "freetime",
-			"ref": "ft-20261009T044737Z-Sirius"
+			"ref": "ft-20261010T164417Z-Sirius"
 		}
 	],
-	"updated_at_utc": "2026-10-09T04:47:38.3588594Z",
+	"updated_at_utc": "2026-10-10T16:44:19.3367520Z",
 	"updated_region": "BTC",
 	"migrated_regions": [
 		"Florin",
