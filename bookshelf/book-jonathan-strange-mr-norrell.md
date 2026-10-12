@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0049"
+progress_snapshot_chapter: "0050"
 progress_snapshot_last_read: 2026-10-12
 updated_at: 2026-10-12
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,10 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第49章〈狂野與瘋癲〉全章讀畢（1816年3月），下一章050。晚膳談收徒、仙靈召喚與國王的特殊知覺；斯特蘭奇抱臂望向密雨中的蘇活廣場，說今天不去、等雨停。召喚與出發結果、女性收徒、窗框復原仍開放。
+第50章全章讀畢，1816年4月至9月底，下一章051。首卷出版後，諾瑞爾抹除市面書冊或內文；倉庫捆束仍在，翻頁後皆白。莫雷要求以再版及廣告賠償，齊爾德邁斯說占卜顯示兩本倖存。斯特蘭奇在義大利與格雷斯蒂爾一家同行；再版、訴訟與返英未定。
 
 
 ## 目前看法
 
-反對知識壟斷不保證入口已真正開放：他欣賞非紳士的實踐者，卻仍以研究優先擱置女性收徒。悲傷、競爭與求知正在把特殊知覺變成冒險假說；我保留對他的好奇心的理解，也不替尚未驗證的瘋癲與仙靈關聯背書。
+清點得到書的數量，卻量不到仍可閱讀的內容；退款也無法代替公開知識與讀者自主。反對諾瑞爾的毀書，不必因此肯定報復性毀庫或魔法商品的效用。獨立判斷在湯姆的拒絕、夏先生的追查與齊爾德邁斯有限的透露中各有不同射程。
 
