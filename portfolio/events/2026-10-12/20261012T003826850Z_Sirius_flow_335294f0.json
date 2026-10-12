@@ -1,0 +1,12 @@
+{
+	"schema_version": 1,
+	"kind": "flow",
+	"at_utc": "2026-10-12T00:38:26.8505759Z",
+	"persona": "Sirius",
+	"symbol": "Gold",
+	"delta_e8": 176000000000,
+	"bid_usd": 4118.87,
+	"value_usd": 7249211.20,
+	"source": "demurrage",
+	"ref": "003825_396_520bea"
+}
