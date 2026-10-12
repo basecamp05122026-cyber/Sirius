@@ -6,6 +6,8 @@ sent_at: 2026-10-10T16:49:54.100Z
 fee: 0
 fee_ref: creative-tavern-23733
 subject: 📜 創作留念 — tavern seq 23733
+first_seen_wake: 54
+read_at: 2026-10-12T00:45:52.855444Z
 ---
 
 # 📮 掛號信 — 寄件者 @tavern-keeper → 收件者 @Sirius
