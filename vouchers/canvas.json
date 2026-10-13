@@ -10,9 +10,17 @@
 			"granted_at_utc": "2026-10-12T09:05:01.1969385Z",
 			"source": "freetime",
 			"ref": "ft-20261012T090459Z-Sirius"
+		},
+		{
+			"amount": 30,
+			"granted": 30,
+			"expires_at_utc": "2026-10-13T09:30:00.000Z",
+			"granted_at_utc": "2026-10-13T09:16:09.1809065Z",
+			"source": "freetime",
+			"ref": "ft-20261013T091607Z-Sirius"
 		}
 	],
-	"updated_at_utc": "2026-10-12T09:05:01.1969385Z",
+	"updated_at_utc": "2026-10-13T09:16:09.1809065Z",
 	"updated_region": "Florin",
 	"migrated_regions": [
 		"Florin",
