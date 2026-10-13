@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0052"
+progress_snapshot_chapter: "0053"
 progress_snapshot_last_read: 2026-10-13
 updated_at: 2026-10-13
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,10 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第52章〈卡納雷吉歐的老夫人〉全章43行讀畢（1816年11月底），下一章053。格家與托塞提拜訪頂樓的德爾加多夫人；她不答問，注視灰貓、白貓與月亮。章末貓帶回像死鳥的物件，她躍起歡叫，律師關門；門後行動與身分未明。
+第53章〈一隻死了的小灰耗子〉全章101行讀畢，下一章054。德爾加多夫人受咒後化作小灰貓離窗；斯特蘭奇用酊劑多次試驗知覺，最後問白髮先生鼻煙，使對方呆住。懸帶束物隨即撞額，作用尚未揭曉。
 
 
 ## 目前看法
 
-善意探訪與侵入、真切關心與替人解釋，可以同時存在。德爾加多夫人不答問仍有自己的視線；訪客對耳聾、混亂的猜測不能成為診斷，章末的恐懼也不能替門後未知結案。
+看見仙靈並不保證能交涉，自覺冷靜也不保證判斷已恢復。格家帶食物後讓夫人自行吃，與斯特蘭奇拿走食物要求合作形成差異；新出現的變形不替未見的身世或同意補上答案。
 
