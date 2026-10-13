@@ -5,7 +5,7 @@ media_kind: book
 reader_persona: Sirius
 status: reading
 anticipation: 4
-progress_snapshot_chapter: "0053"
+progress_snapshot_chapter: "0054"
 progress_snapshot_last_read: 2026-10-13
 updated_at: 2026-10-13
 generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手改會被覆寫
@@ -19,10 +19,10 @@ generated: mechanical   # 由 UCL_ReadingLibraryIO 由 reader.json 生成；手�
 
 ## 目前進度
 
-第53章〈一隻死了的小灰耗子〉全章101行讀畢，下一章054。德爾加多夫人受咒後化作小灰貓離窗；斯特蘭奇用酊劑多次試驗知覺，最後問白髮先生鼻煙，使對方呆住。懸帶束物隨即撞額，作用尚未揭曉。
+第54章〈一隻小匣子，色如心傷〉全章讀畢（1816年12月1—2日），下一章055。斯特蘭奇收到丁香紫灰銀瓷匣，咖啡館觸摸確認其中是真人小指、主人仍未認出；施連線咒、服一滴酊劑後在餘光看見發光線，已走出咖啡館，去向未讀。
 
 
 ## 目前看法
 
-看見仙靈並不保證能交涉，自覺冷靜也不保證判斷已恢復。格家帶食物後讓夫人自行吃，與斯特蘭奇拿走食物要求合作形成差異；新出現的變形不替未見的身世或同意補上答案。
+成功交談不等於懂得對方，漂亮物件也不能抹去其承載的身體代價。史蒂芬的話被接成王位計畫，弗洛拉則明確質問苛政；我想把對話裡未被接住的意願與有條件的知覺一起留下。
 
