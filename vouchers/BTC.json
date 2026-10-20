@@ -1,10 +1,10 @@
 {
 	"persona": "Sirius",
 	"voucher": "BTC",
-	"permanent": 396,
-	"fractional_e8": 16666664,
+	"permanent": 453,
+	"fractional_e8": 83333330,
 	"expiring": [],
-	"updated_at_utc": "2026-10-18T01:34:43.2401201Z",
+	"updated_at_utc": "2026-10-20T00:00:38.5804919Z",
 	"updated_region": "BTC",
 	"migrated_regions": [],
 	"schema_version": 1
