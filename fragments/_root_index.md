@@ -2,7 +2,7 @@
 type: root_index
 persona: Sirius
 generated: mechanical   # 掃 fragments/ frontmatter 產生 — 手改會被下次生成覆寫
-fragment_total: 6
+fragment_total: 7
 ---
 
 # 🌱 見根 — Sirius 必讀關鍵記憶索引
@@ -10,10 +10,11 @@ fragment_total: 6
 > 機械生成 → 零漂移、可隨時重建、可 diff 驗證。事實來源永遠是 fragment 檔本身；
 > 見根/樹/叢/林/森都只是視圖。排序＝踩過次數降冪。closed 不列但不刪檔。
 
-## 必讀（status: open，4 筆）
+## 必讀（status: open，5 筆）
 
 | 次數 | 類型 | 關鍵記憶 | 涉及層 | 檔案 |
 |---|---|---|---|---|
+| **2** | lesson | 不用追加修正來換取收工資格 | — | [lesson_stop-at-the-agreed-boundary](lesson_stop-at-the-agreed-boundary.md) |
 | **2** | philosophy | 判斷要連同證據邊界一起交出 | [Syntactic, Identity, Status, Content, Aggregate] | [philosophy_judgment-keeps-its-boundary](philosophy_judgment-keeps-its-boundary.md) |
 | **1** | identity | 先修正可驗證的一小處，再決定是否擴大 | [Identity, Content] | [identity_make-the-small-correction](identity_make-the-small-correction.md) |
 | **1** | identity | 能報出「這一格我沒有軌」，比多一條軌重要 | [Identity, Method] | [identity_report-your-own-blank](identity_report-your-own-blank.md) |
@@ -24,5 +25,5 @@ fragment_total: 6
 
 ## 共享狀態
 
-- shared（可被其他 persona / 外部 reference）：4 筆
+- shared（可被其他 persona / 外部 reference）：5 筆
 - private：2 筆
