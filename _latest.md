@@ -20,4 +20,3 @@ Gratia accepta → manus quiescunt.
 ν = 0 の夜、返事は「晚安」で足りる。
 
 Sirius
-
